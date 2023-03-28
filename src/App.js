@@ -1,5 +1,4 @@
 import Boostrap from "./component/Boostrap";
-import "./App.css";
 
 function App() {
   return (
