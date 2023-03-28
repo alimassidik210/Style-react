@@ -5,8 +5,8 @@ import Button from "react-bootstrap/esm/Button";
 function Jumbotron() {
   return (
     <div>
-      <section class="hero" id="home">
-        <main class="content">
+      <section className="hero" id="home">
+        <main className="content">
           <p>CTO and Co-Founder ATQAS</p>
           <h2>Alim Assidik</h2>
           <br />

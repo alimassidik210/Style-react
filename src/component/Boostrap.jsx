@@ -1,8 +1,9 @@
 import NavComp from "./Functional/NavComp";
 import Jumbotron from "./Functional/Jumbotron";
 import Main from "./Functional/Main";
+import React from "react";
 
-export default class Boostrap extends Component {
+class Boostrap extends React.Component {
   render() {
     return (
       <div>
@@ -13,3 +14,5 @@ export default class Boostrap extends Component {
     );
   }
 }
+
+export default Boostrap;
